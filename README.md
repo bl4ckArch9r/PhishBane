@@ -2,6 +2,11 @@
 
 PhishBane is a cybersecurity tool for detecting phishing URLs using **advanced rule-based heuristics**. It assigns risk scores, labels, and reasons for each analyzed URL. Designed for both personal and organizational use, it provides a **modern web dashboard, API access, and Docker deployment**.
 
+ <p align="center">
+  <img src="cover.jpg" alt="Smart Traffic Light Controller Cover" width="800">
+</p>
+
+
 ## Key Features
 - **URL Risk Analysis:** Scores URLs from 0 to 100 based on suspicious patterns and phishing indicators.
 - **URL Classification:** Labels each URL as Safe, Suspicious, or Malicious.
