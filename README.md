@@ -16,6 +16,10 @@ PhishBane is a cybersecurity tool for detecting phishing URLs using **advanced r
 - **Extensible Design:** Add new rules, integrate ML classifiers, or customize the detection engine.
 - **Dockerized Deployment:** Run locally or in containers for simple and reproducible setups.
 
+  <p align="center">
+  <img src="PHISHBANE UI Interface.jpg" alt="Smart Traffic Light Controller Cover" width="800">
+</p> 
+
 ## Technologies
 - **Backend:** Python, FastAPI  
 - **Frontend:** HTML, CSS, JavaScript  
