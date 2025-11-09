@@ -29,16 +29,3 @@ PhishBane is a cybersecurity tool for detecting phishing URLs using **advanced r
 - **Data Analysis:** Python rules engine (future ML extension with scikit-learn)  
 - **Deployment:** Docker, docker-compose  
 
-## Installation
-```bash
-git clone https://github.com/<your-username>/phishbane.git
-cd phishbane
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-
-## 🚀 Usage
-
-### Access the Dashboard
-Run the FastAPI server:
-```bash
-uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
