@@ -1,4 +1,7 @@
 # PhishBane v0.2 - Rule-based Phishing URL Analyzer
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![FastAPI](https://img.shields.io/badge/Framework-Flask-green.svg)
+![License](https://img.shields.io/badge/License-Educational-lightgrey.svg)
 
 PhishBane is a cybersecurity tool for detecting phishing URLs using **advanced rule-based heuristics**. It assigns risk scores, labels, and reasons for each analyzed URL. Designed for both personal and organizational use, it provides a **modern web dashboard, API access, and Docker deployment**.
 
